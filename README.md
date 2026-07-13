@@ -353,6 +353,8 @@ Potential enhancements for this project include:
 - Web based dashboard
 - Multi arm coordination
 
+Project Demo Video: https://www.linkedin.com/posts/dawoodahmedjavid_robotics-digitaltwin-unity3d-ugcPost-7424134123411148800-gGG9/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD3MTW8BBEq5KJ4gGeXksLbV9aQNxxrVazI
+
 ## Author
 
 **Dawood Ahmed**  
